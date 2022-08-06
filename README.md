@@ -1,1 +1,1 @@
-"# StockMarketDB" 
+# StockMarketDB
